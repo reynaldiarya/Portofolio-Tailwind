@@ -21,7 +21,7 @@ Welcome to the repository for my personal portfolio website. This project showca
 - **Tailwind CSS** - Utility-first CSS framework for styling.
 - **JavaScript** - For interactivity and animations.
   - [Typed.js](https://github.com/mattboldt/typed.js/) - Typewriter effect.
-  - [Particles.js](https://github.com/ VincentGarreau/particles.js/) - Particle background.
+  - [Particles.js](https://github.com/VincentGarreau/particles.js/) - Particle background.
 
 ## 📦 Installation & Setup
 
